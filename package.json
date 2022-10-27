@@ -1,0 +1,16 @@
+{
+  "name": "effector-babel-wrong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --no-cache"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "effector": "^22.3.0",
+    "jest": "^29.2.2",
+    "ts-jest": "^29.0.3"
+  }
+}
